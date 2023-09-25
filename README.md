@@ -6,7 +6,7 @@ ____________________________________________________________________________
 
 ### Organizations
 | [https://github.com/blogsbycat](https://github.com/blogsbycat) |
-|[https://github.com/catchangelogs](https://github.com/catchangelogs) |
+|[https://github.com/changelogsbycat](https://github.com/changelogsbycat) |
 |[https://github.com/catlinks](https://github.com/catlinks) |
 |[https://github.com/coolcatprojects](https://github.com/coolcatprojects) |
 |[https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
