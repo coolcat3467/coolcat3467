@@ -5,7 +5,7 @@ Content Creator, Developer, Artist
 ____________________________________________________________________________
 
 ### Organizations
-| [https://github.com/thecatblog1](https://github.com/thecatblog1) |
+| [https://github.com/blogsbycat](https://github.com/blogsbycat) |
 |[https://github.com/catchangelogs](https://github.com/catchangelogs) |
 |[https://github.com/catlinks](https://github.com/catlinks) |
 |[https://github.com/coolcatprojects](https://github.com/coolcatprojects) |
