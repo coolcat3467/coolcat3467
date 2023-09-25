@@ -1,10 +1,7 @@
 # Coolcat8467's Readme
 
 ### About me
-Content Creator
-developer
-artist
-
+Content Creator, Developer, Artist
 ____________________________________________________________________________
 
 ### Organizations
