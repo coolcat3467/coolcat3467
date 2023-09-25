@@ -6,8 +6,8 @@ ____________________________________________________________________________
 
 ### Organizations
 | [https://github.com/thecatblog1](https://github.com/thecatblog1) |
-[https://github.com/catchangelogs](https://github.com/catchangelogs) |
-[https://github.com/catlinks](https://github.com/catlinks) |
+|[https://github.com/catchangelogs](https://github.com/catchangelogs) |
+|[https://github.com/catlinks](https://github.com/catlinks) |
 |[https://github.com/coolcatprojects](https://github.com/coolcatprojects) |
 [https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
 [https://github.com/gamesofwolf](https://github.com/gamesofwolf) |
