@@ -12,6 +12,7 @@ ____________________________________________________________________________
 |[https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
 |[https://github.com/gamesofwolf](https://github.com/gamesofwolf) |
 |[https://github.com/theworldofcreation](https://github.com/theworldofcreation) |
+|[https://github.com/imagesbycat](https://github.com/imagesbycat) |
 
 ____________________________________________________________________________
 
