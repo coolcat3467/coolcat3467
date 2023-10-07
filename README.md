@@ -13,7 +13,6 @@ ____________________________________________________________________________
 | [https://github.com/blogsbycat](https://github.com/blogsbycat) |
 |[https://github.com/imagesbycat](https://github.com/imagesbycat) |
 |[https://github.com/redirectsbycat](https://github.com/redirectsbycat) |
-|[https://github.com/changelogsbycat](https://github.com/changelogsbycat) |
 
 ____________________________________________________________________________
 
