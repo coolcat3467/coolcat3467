@@ -12,7 +12,7 @@ ____________________________________________________________________________
 |[https://github.com/gamesofwolf](https://github.com/gamesofwolf) |
 | [https://github.com/blogsbycat](https://github.com/blogsbycat) |
 |[https://github.com/imagesbycat](https://github.com/imagesbycat) |
-|[https://github.com/redirectsbycat](https://github.com/redirectsbycat) |
+|[https://github.com/catredirects](https://github.com/catredirects) |
 
 ____________________________________________________________________________
 
