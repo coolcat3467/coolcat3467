@@ -9,7 +9,7 @@ ____________________________________________________________________________
 |[https://github.com/theworldofcreation](https://github.com/theworldofcreation) |
 |[https://github.com/catlinks](https://github.com/catlinks) |
 |[https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
-|[https://github.com/gamesofwolf](https://github.com/gamesofwolf) |
+|[https://github.com/gamesbywolf](https://github.com/gamesbywolf) |
 | [https://github.com/blogsbycat](https://github.com/blogsbycat) |
 |[https://github.com/catsimages](https://github.com/catsimages) |
 |[https://github.com/catredirects](https://github.com/catredirects) |
