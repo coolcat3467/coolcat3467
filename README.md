@@ -4,19 +4,18 @@
 
 ____________________________________________________________________________
 
-* Organizations
-
-|[https://github.com/coolcatprojects](https://github.com/coolcatprojects) |
-|[https://github.com/theworldofcreation](https://github.com/theworldofcreation) |
-|[https://github.com/catlinks](https://github.com/catlinks) |
-|[https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
-| [https://github.com/gamesbywolf](https://github.com/gamesbywolf) |
-|[https://github.com/blogsbycat](https://github.com/blogsbycat) |
-
-| Syntax | Description |
+| Organization Name | Organization Url |
 | ----------- | ----------- |
+| coolcatprojects | https://github.com/coolcatprojects |
 | catredirects | https://github.com/catredirects |
 | catsimages | https://github.com/catsimages |
+| theworldofcreation | https://github.com/theworldofcreation |
+| catlinks | https://github.com/catlinks |
+| coolwolfmcofficial | https://github.com/coolwolfmcofficial |
+| gamesbywolf | https://github.com/gamesbywolf |
+| blogsbycat | https://github.com/blogsbycat |
+
+
 ____________________________________________________________________________
 
 ### Socials
