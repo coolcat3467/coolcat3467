@@ -1,19 +1,22 @@
 # Coolcat8467's Readme
 
-### About me
-Content Creator, Developer, Artist
+* About me
+
 ____________________________________________________________________________
 
-### Organizations
+* Organizations
+
 |[https://github.com/coolcatprojects](https://github.com/coolcatprojects) |
 |[https://github.com/theworldofcreation](https://github.com/theworldofcreation) |
 |[https://github.com/catlinks](https://github.com/catlinks) |
 |[https://github.com/coolwolfmcofficial](https://github.com/coolwolfmcofficial) |
-|[https://github.com/gamesbywolf](https://github.com/gamesbywolf) |
-| [https://github.com/blogsbycat](https://github.com/blogsbycat) |
-|[https://github.com/catsimages](https://github.com/catsimages) |
-|[https://github.com/catredirects](https://github.com/catredirects) |
+| [https://github.com/gamesbywolf](https://github.com/gamesbywolf) |
+|[https://github.com/blogsbycat](https://github.com/blogsbycat) |
 
+| Syntax | Description |
+| ----------- | ----------- |
+| catredirects | https://github.com/catredirects |
+| catsimages | https://github.com/catsimages |
 ____________________________________________________________________________
 
 ### Socials
