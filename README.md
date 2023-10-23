@@ -11,7 +11,7 @@ ____________________________________________________________________________
 | catsimages | https://github.com/catsimages |
 | theworldofcreation | https://github.com/theworldofcreation |
 | catlinks | https://github.com/catlinks |
-| coolwolfmcofficial | https://github.com/coolwolfmcofficial |
+| coolwolfmc | https://github.com/coolwolfmc |
 | gamesbywolf | https://github.com/gamesbywolf |
 | blogsbycat | https://github.com/blogsbycat |
 
