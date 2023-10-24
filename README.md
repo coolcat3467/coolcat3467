@@ -9,7 +9,6 @@ ____________________________________________________________________________
 | Name |  Urls |
 | ----------- | ----------- |
 | coolcatprojects | https://github.com/coolcatprojects |
-| catsurls | https://github.com/catsurls |
 | catsfiles | https://github.com/catsfiles |
 | theworldofcreations | https://github.com/theworldofcreations |
 | catlinks | https://github.com/catlinks |
