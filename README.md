@@ -1,7 +1,6 @@
 # Coolcat8467's Readme
 
 #### About me
-
 ____________________________________________________________________________
 
 #### Organizations
@@ -10,6 +9,7 @@ ____________________________________________________________________________
 | ----------- | ----------- |
 | coolcatprojects | https://github.com/coolcatprojects |
 | catsfiles | https://github.com/catsfiles |
+| huskylinks | https://github.com/huskylinks |
 | theworldofcreations | https://github.com/theworldofcreations |
 | catlinks | https://github.com/catlinks |
 | theuselesswebsite | https://github.com/theuselesswebsite |
