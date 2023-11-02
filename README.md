@@ -1,6 +1,9 @@
 # Coolcat8467's Readme
 
 #### About me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcat8467&theme=shadow_red&show_icons=true)
+
 ____________________________________________________________________________
 
 #### Organizations
