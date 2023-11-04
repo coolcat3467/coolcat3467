@@ -1,39 +1,19 @@
 # Coolcat8467's Readme
+-----------------------------------------------------
 
-#### About me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcat8467&theme=shadow_red&show_icons=true)
 
-____________________________________________________________________________
+-----------------------------------------------------
 
-#### Organizations
-
-| Name |  Urls |
-| ----------- | ----------- |
-| theworldofcreations | https://github.com/theworldofcreations |
-| theuselesswebsite | https://github.com/theuselesswebsite |
-| sitesbycat | https://github.com/sitesbycat |
-| catsfiles | https://github.com/catsfiles |
-| huskylinks | https://github.com/huskylinks |
-| catlinks | https://github.com/catlinks |
-| coolwolfmc | https://github.com/coolwolfmc |
-| gamesbywolf | https://github.com/gamesbywolf |
-| blogsbycat | https://github.com/blogsbycat |
-
-____________________________________________________________________________
-
-
-#### Socials
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-____________________________________________________________________________
-
-#### Tools
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-____________________________________________________________________________
-
-
-
+[https://github.com/theworldofcreations](https://github.com/theworldofcreations)
+&nbsp;
+[https://github.com/theuselesswebsite](https://github.com/theuselesswebsite)
+&nbsp;
+[https://github.com/sitesbycat](https://github.com/sitesbycat)
+&nbsp;
+[https://github.com/catsfiles](https://github.com/catsfiles)
+&nbsp;
+[https://github.com/gamesbywolf](https://github.com/gamesbywolf)
+&nbsp;
+[https://github.com/blogsbycat](https://github.com/blogsbycat)
