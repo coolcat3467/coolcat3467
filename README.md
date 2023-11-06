@@ -1,19 +1,8 @@
 # Coolcat8467's Readme
 -----------------------------------------------------
+### Find me on...
+[Youtube](https://youtube.com/@coolcat8467)
+&nbsp;
+[Twitter](https://twitter.com/coolcat34670)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcat8467&theme=shadow_red&show_icons=true)
-
------------------------------------------------------
-
-[https://github.com/theworldofcreations](https://github.com/theworldofcreations)
-&nbsp;
-[https://github.com/theuselesswebsite](https://github.com/theuselesswebsite)
-&nbsp;
-[https://github.com/sitesbycat](https://github.com/sitesbycat)
-&nbsp;
-[https://github.com/catsfiles](https://github.com/catsfiles)
-&nbsp;
-[https://github.com/gamesbywolf](https://github.com/gamesbywolf)
-&nbsp;
-[https://github.com/blogsbycat](https://github.com/blogsbycat)
+### Top projets 
