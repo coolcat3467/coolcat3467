@@ -1,15 +1,9 @@
 # Coolcat8467's Readme
 -----------------------------------------------------
-### Find me on...
-[Youtube](https://youtube.com/@coolcat8467)
+### Links
+[Youtube Channel](https://youtube.com/@coolcat8467)
 &nbsp;
-[Twitter](https://twitter.com/coolcat34670)
+[Twitter Page](https://twitter.com/coolcat34670)
+&nbsp;
+[Top Projects](https://coolcat8467.github.io/top-projects/)
 
-### Top projects
-
-| Number              | Project | Url |
-| :---------------- | :------: | ----: |
-| 1        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 | 
