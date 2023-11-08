@@ -5,5 +5,8 @@
 &nbsp;
 [Twitter Page](https://twitter.com/coolcat34670)
 &nbsp;
-[Top Projects](https://coolcat8467.github.io/top-projects/)
+[Dev portfolio](https://coolcat8467.github.io/portfolio/dev)
+&nbsp;
+[Art portfolio](https://coolcat8467.github.io/portfolio/art)
+
 
