@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jekyll And Javascript**
 
-- 👨‍💻 All of my projects are available at [https://projectsbycat.github.io/](https://projectsbycat.github.io/)
+- 👨‍💻 All of my projects are available at [https://projectsbycat.github.io](https://projectsbycat.github.io)
 
 - 📝 I regularly write articles on [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog) and [https://dev.to/coolcat34670](https://dev.to/coolcat34670)
 
