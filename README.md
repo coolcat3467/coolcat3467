@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Dogs Guides](https://github.com/dogsguides) And [The World Of Creations](https://github.com/theworldofcreations)
 
-- 🌱 I’m currently learning **Jekyll And Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://projectsbycat.github.io](https://projectsbycat.github.io)
+- 👨‍💻 All of my projects are available at [https://coolcat3467.github.io/projects](https://coolcat3467.github.io/projects)
 
 - 📝 I regularly write articles on [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog) and [https://dev.to/coolcat34670](https://dev.to/coolcat34670)
 
