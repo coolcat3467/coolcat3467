@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm James / Coolcat</h1>
-<h3 align="center">A Frontend Web Developer</h3>
+<h3 align="center">A Frontend Web Developer, Bot Developer and Content creator</h3>
 
 =========================================================================================================
 
 - 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
 
-- - 👨‍💻 All of my projects are available at [https://coolcat3467.github.io/projects](https://coolcat3467.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://chillmeow.github.io/projectsbycat](https://chillmeow.github.io/projectsbycat)
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I regularly write articles on [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog)
+=========================================================================================================
+- 📝 I regularly write articles on
+- [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog)
 
 =========================================================================================================
 
