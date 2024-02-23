@@ -5,7 +5,7 @@
 
 - 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
 
-- 👨‍💻 All of my projects are available at [https://chillmeow.github.io/projectsbycat](https://chillmeow.github.io/projectsbycat)
+- 👨‍💻 All of my projects are available at 
 
 - 🌱 I’m currently learning **Javascript**
 
