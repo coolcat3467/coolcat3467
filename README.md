@@ -5,13 +5,17 @@
 
 - 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at <ins>Coming soon<ins>
 
 - 🌱 I’m currently learning **Javascript**
 
 =========================================================================================================
-- 📝 I regularly write articles on
+
+<h4 align="center">I regularly Post on</h4>
+
 - [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog)
+- [https://mastodon.social/@foxdev10](https://mastodon.social/@foxdev10)
+- [https://mastodon.social/@Coolcat3467](https://mastodon.social/@Coolcat3467)
 
 =========================================================================================================
 
