@@ -13,8 +13,9 @@
 
 <h4 align="center">I regularly Post on</h4>
 
-- [https://coolcat3467.github.io/blog](https://coolcat3467.github.io/blog)
+- [https://foxdev10.hashnode.dev](https://foxdev10.hashnode.dev)
 - [https://mastodon.social/@foxdev10](https://mastodon.social/@foxdev10)
+- [https://coolcat3467.hashnode.dev](https://coolcat3467.hashnode.dev)
 - [https://mastodon.social/@Coolcat3467](https://mastodon.social/@Coolcat3467)
 
 =========================================================================================================
