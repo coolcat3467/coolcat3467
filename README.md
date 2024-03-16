@@ -17,11 +17,10 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 Here are some of the projects I'm currently working on:
 
-1. **Wolf Builds**: Showcase Website of my builds from games like Minecraft and Recroom. | [Github Repo](https://github.com/foxdevelops/wolfbuilds)
+1. **Wolf Builds**: Showcase Website of my builds from games like Minecraft and Recroom. | 
 
 ## Development hobbies
 
-- **Fox development**: All of my other websites. | [Github Page](https://github.com/foxdevelops)
 - **Cattopiamc**: Websites for my minecraft city realm | [Github Page](https://github.com/cattopiamc)
 - **Cool cats projects**: My projects websites | [Github Page](https://github.com/coolcatsprojects)
 
