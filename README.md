@@ -37,7 +37,6 @@ Feel free to connect with me on:
 
 - [Mastodon](https://mastodon.social/@Coolcat3467)
 - [Discord](https://discord.com/invite/TDb6YsYndW)
-- [Blog](https://coolcat3467.hashnode.dev)
 - [GitHub](https://github.com/coolcat3467)
 
 #### Thanks for reading my Github profile
