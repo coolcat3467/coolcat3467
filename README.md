@@ -6,7 +6,7 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 - 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
 
-- 👨‍💻 All of my projects are available at [https://coolcatsprojects.github.io](https://coolcatsprojects.github.io)
+- 👨‍💻 All of my projects are available at 
 
 - 💻 My skills are **Html, Css**
 
@@ -22,7 +22,6 @@ Here are some of the projects I'm currently working on:
 ## Development hobbies
 
 - **Cattopiamc**: Websites for my minecraft city realm | [Github Page](https://github.com/cattopiamc)
-- **Cool cats projects**: My projects websites | [Github Page](https://github.com/coolcatsprojects)
 
 ## Interests
 
