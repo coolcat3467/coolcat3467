@@ -17,11 +17,8 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 Here are some of the projects I'm currently working on:
 
-1. **Wolf Builds**: Showcase Website of my builds from games like Minecraft and Recroom. | 
-
-## Development hobbies
-
-- **Cattopiamc**: Websites for my minecraft city realm | [Github Page](https://github.com/cattopiamc)
+1. **Cats mc builds**: Showcase Website of my buildson Minecraft. |
+2. **Cats rr builds**: Showcase Website of my buildson Recroom. | 
 
 ## Interests
 
