@@ -17,9 +17,9 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 Here are some of the projects I'm currently working on:
 
-1. **Cats mc builds**: Showcase Website of my builds on Minecraft. |
-2. **Cats rr builds**: Showcase Website of my builds on Recroom. |
-3. **Cats creations**: A List of custom made graphic designs. | 
+1. **Cats mc builds**: Showcase Website of my builds on Minecraft. | [Project Website]() | [Github Repo]() 
+2. **Cats rr builds**: Showcase Website of my builds on Recroom. | [Project Website]() | [Github Repo]() 
+3. **Cats creations**: A List of custom made graphic designs. | [Project Website]() | [Github Repo]() 
 
 ## Interests
 
