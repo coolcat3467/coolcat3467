@@ -33,7 +33,3 @@ Feel free to connect with me on:
 - [GitHub](https://github.com/coolcat3467)
 
 #### Thanks for reading my Github profile
-
-![Static Badge](https://img.shields.io/badge/Made_by_James_%2F_Coolcat-teal)
-
-
