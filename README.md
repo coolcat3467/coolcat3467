@@ -6,6 +6,8 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 - 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
 
+- 👨‍💻 All of my projects are available at [https://coolcat3467.github.io/projects](https://coolcat3467.github.io/projects)
+
 - 💻 My skills are **Html, Css**
 
 - 🌱 I’m currently learning **Javascript**
@@ -15,7 +17,7 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 Here are some of the projects I'm currently working on:
 
-1. **Cats creations**: A List of custom-made graphic designs. | [Github Repo]() 
+1. **Wolf's creations**: A List of art and other things. | [Github Repo]() 
 
 ## Interests
 
