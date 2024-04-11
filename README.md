@@ -12,13 +12,6 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 - 🌱 I’m currently learning **Javascript**
 
-
-## Current Projects
-
-Here are some of the projects I'm currently working on:
-
-1. **Wolf's creations**: A List of art and other things. | [Github Repo]() 
-
 ## Interests
 
 Apart from coding, I'm also interested in:
