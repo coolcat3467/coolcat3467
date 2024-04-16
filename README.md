@@ -4,8 +4,6 @@ I'm a Frontend Web Developer, Bot Developer and Content Creator
 
 ## About Me
 
-- 🌐 Visit my website at [https://coolcat3467.github.io](https://coolcat3467.github.io)
-
 - 💻 My skills are **Html, Css**
 
 - 🌱 I’m currently learning **Javascript**
