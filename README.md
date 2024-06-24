@@ -1,6 +1,6 @@
 # Hi there, I'm James / Coolcat! 👋
 
-I'm a Frontend Web Developer, Bot Developer and Content Creator
+I'm a Frontend Web Developer and Content Creator
 
 ## About Me
 
