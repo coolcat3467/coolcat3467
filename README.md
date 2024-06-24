@@ -20,7 +20,5 @@ Apart from coding, I'm also interested in:
 Feel free to connect with me on:
 
 - [Mastodon](https://mastodon.social/@Coolcat3467)
-- [Discord](https://discord.com/invite/TDb6YsYndW)
-- [GitHub](https://github.com/coolcat3467)
 
 #### Thanks for reading my Github profile
